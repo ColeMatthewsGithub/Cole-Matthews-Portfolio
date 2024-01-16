@@ -1,0 +1,4 @@
+cowsay - Used to make the cow and pig talk.
+random - Used to generate random math problems.
+math - Used to round up decimal answers.
+sys - Used to forcefully exit the program if the user inputs the difficulty incorrectly.

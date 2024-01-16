@@ -1,0 +1,1 @@
+In this directory you will find all assignments I have completed for AE227 - Engineering Digital Computation.
